@@ -1,0 +1,25 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "Starter project for gulp.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bvs90/gulp-starter.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Ben Stone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvs90/gulp-starter/issues"
+  },
+  "homepage": "https://github.com/bvs90/gulp-starter",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
