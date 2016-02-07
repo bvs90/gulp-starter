@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/bvs90/gulp-starter",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7"
   }
 }
